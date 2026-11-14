@@ -17,3 +17,12 @@ Upload the **contents of this folder** to Cloudflare Pages, or connect a GitHub 
 
 ## Media
 User-provided sample artwork was optimized to WebP at high quality; original sample videos are preserved in `assets/showcase-*.mp4`.
+
+
+## Approved visual refinements
+- Home hero: responsive left text/CTA + right image slideshow, 2-second cycling, manual arrows, no sidebar.
+- Neon eye logo uses screen blending to avoid the visible black square.
+- Learn guide: dark neon-purple active link for both click and manual scroll.
+- Result preview: branded neon eye creative preview artwork.
+- Generator pages: branded visual; actual AI remains disconnected (no fake generation claims).
+- Enhanced slideshow images are resampled from supplied sources; upscaling cannot recover detail absent from originals.
